@@ -33,7 +33,7 @@ async def start(client, message):
             ],
             [
                 InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("SOURCE 📦", url=f"https://t.me/Libya40K"),
+                InlineKeyboardButton("❤️المطور ", url=f"https://t.me/Libya40K"),
             ],
             [
                 InlineKeyboardButton("🤖 ABOUT", callback_data="about"),
