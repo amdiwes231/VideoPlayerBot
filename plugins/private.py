@@ -33,7 +33,7 @@ async def start(client, message):
             ],
             [
                 InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("❤️المطور ", url=f"@AMD_LY"),
+                InlineKeyboardButton("❤️المطور ", url=f"https://t.me/AMD_LY"),
             ],
             [
                 InlineKeyboardButton("🤖 ABOUT", callback_data="about"),
@@ -93,7 +93,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("❤️المطور", url=f"@AMD_LY"),
+                InlineKeyboardButton("❤️المطور", url=f"https://t.me/AMD_LY"),
             ],
             [
                 InlineKeyboardButton("🤖 ABOUT", callback_data="about"),
