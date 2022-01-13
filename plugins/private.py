@@ -93,7 +93,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             ],
             [
                 InlineKeyboardButton("📢 CHANNEL", url=f"https://t.me/{UPDATES_CHANNEL}"),
-                InlineKeyboardButton("SOURCE 📦", url=f"https://t.me/Libya40K"),
+                InlineKeyboardButton("❤️المطور", url=f"@AMD_LY"),
             ],
             [
                 InlineKeyboardButton("🤖 ABOUT", callback_data="about"),
