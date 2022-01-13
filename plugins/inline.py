@@ -30,7 +30,7 @@ buttons = [
                 InlineKeyboardButton("SUPPORT", url="https://t.me/AsmSupport"),
             ],
             [
-                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/AsmSafone/VideoPlayerBot"),
+                InlineKeyboardButton("🤖 MAKE YOUR OWN BOT 🤖", url="https://heroku.com/deploy?template=https://github.com/amdiwes231/VideoPlayerBot"),
             ]
          ]
 
